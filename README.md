@@ -6,6 +6,7 @@ The link below will get you up to speed in installing and setting up micripython
 
 ### Pinout
 <hr>
+
 ![Pinout](./images/pinout.jpg)
 
 1. Dual-Core ARM Cortex-M0+
