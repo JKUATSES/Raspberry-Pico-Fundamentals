@@ -68,3 +68,12 @@ while True:
 
 ```
 
+### More examples
+1. [Led toggle](./examples/toggle.py)
+2. [I2C](./examples/i2c.py)
+3. [Reading voltage with potentiometer](./examples/potentiometer.py)
+4. [PWM](./examples/pwm.py)
+5. [Controlling LED brighness with PWM and potentiometer](./examples/pwm_with_potentiometer.py)
+6. [Push button without debounce](./examples/push_btn_no_debounce.py)
+6. [LED blink](./examples/blink.py)
+
